@@ -28,15 +28,15 @@
 
 ### Front-end
 
-* [ejs](http://ejs.co/)
-* [Bootstrap](https://getbootstrap.com/docs/3.3/)
+* ejs
+* Bootstrap
 
 ### Back-end
 
-* [express]
-* [mongoDB]
-* [mongoose]
-* [passport-local]
-* [express-session]
-* [method-override]
-* [connect-flash]
+* express
+* mongoDB
+* mongoose
+* passport-local
+* express-session
+* method-override
+* connect-flash
