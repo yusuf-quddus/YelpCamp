@@ -36,6 +36,7 @@
 * express
 * mongoDB
 * mongoose
+* passport
 * passport-local
 * express-session
 * method-override
