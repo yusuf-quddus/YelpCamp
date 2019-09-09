@@ -1,10 +1,14 @@
 <% include ./partials/header %>
 
-<h1> Sign Up!</h1>
-<form action = "/register" method = "POST"> 
-	<input type = "text" name = "username" placeholder = "username">
-	<input type = "password" name = "password" placeholder = "password">
-	<button> Sign Up </button>
-</form>
+<div class = "authenticate">
+		<h1> Sign Up!</h1>
+	<form action = "/register" method = "POST"> 
+		<input type = "text" name = "username" placeholder = "username">
+		<input type = "password" name = "password" placeholder = "password">
+		<button> Sign Up </button>
+	</form>
+</div>
+
+
 
 <% include ./partials/footer %>

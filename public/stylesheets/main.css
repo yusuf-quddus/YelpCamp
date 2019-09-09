@@ -13,3 +13,7 @@
 .delete-form {
 	display: inline;
 }
+
+.authenticate {
+	padding-left: 20px;
+}
