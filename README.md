@@ -2,7 +2,9 @@
 
 > A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
 
-(Website will be hosted live shortly)
+## Live Demo
+
+To see the app in action, go to [https://serene-bayou-89096.herokuapp.com/](https://serene-bayou-89096.herokuapp.com/)
 
 ## Features
 
