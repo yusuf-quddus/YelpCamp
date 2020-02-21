@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-To see the app in action, go to [http://tinyurl.com/health-ai](http://tinyurl.com/health-ai)
+To see the app in action, go to [https://serene-bayou-89096.herokuapp.com/](https://serene-bayou-89096.herokuapp.com/)
 
 ## Features
 
