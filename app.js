@@ -19,7 +19,7 @@ var commentRoutes    = require("./routes/comments"),
 
 //mongoose.connect('mongodb://localhost:27017/yelp_camp', {useNewUrlParser: true});
 
-mongoose.connect('mongodb+srv://yusufquddus:9wYLm45SU1ab94UK@cluster0.ybeusfc.mongodb.net/?retryWrites=true&w=majority', {useNewUrlParser: true, useCreateIndex: true}).then(() => {
+mongoose.connect('mongodb+srv://yusufquddus:password@cluster0.ybeusfc.mongodb.net/?retryWrites=true&w=majority', {useNewUrlParser: true, useCreateIndex: true}).then(() => {
 	console.log('connected');
 }).catch(err=>{
 	console.log(err.message);
